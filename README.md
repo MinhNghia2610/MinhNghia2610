@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===== CAPSULE RENDER HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RekT%20%E2%80%94%20MinhNghia&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20caffeine%20into%20code%20since%20forever%20☕&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nghia%20Le&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20LLM%20Integration%20%E2%80%A2%20Prompt%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- ===== TYPING SVG ===== -->
 <a href="https://github.com/MinhNghia2610">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=👋+Hey+there%2C+I'm+MinhNghia!;💻+Passionate+Full-Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🔬+Science+lover+from+HCM%2C+Vietnam;🚀+Always+learning+%2C+always+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=🤖+AI+Engineer+%26+Full-Stack+Developer;🔧+Building+RAG+Systems+%2B+AI+Agents;🧠+Prompt+Engineering+%2B+LLM+Integration;🚀+AI-Native+Development+Methodology;🌏+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/MinhNghia2610?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-brightgreen?style=for-the-badge" alt="focus"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full-Stack-brightgreen?style=for-the-badge" alt="focus"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%20🇻🇳-red?style=for-the-badge" alt="location"/>
 
@@ -34,26 +34,37 @@
 </div>
 
 ```python
-class MinhNghia:
-    name       = "RekT - MinhNghia"
-    username   = "MinhNghia2610"
-    location   = "Ho Chi Minh City, Vietnam 🇻🇳"
-    bio        = "An ordinary person with a passion for coding and science"
-    work       = "Working from Home 🏠"
+class NghiaLe:
+    """AI Engineer building production-ready intelligent systems."""
+    
+    location    = "Ho Chi Minh City, Vietnam 🇻🇳"
+    focus       = "AI Engineering • RAG • LLM Integration"
+    methodology = "AI-Native Development — AI as engineering teammate"
+    
+    # Core competencies
+    ai_stack    = [
+        "RAG (FAISS + sentence-transformers + OpenAI)",
+        "LLM Integration (OpenAI, Gemini, Llama 3)",
+        "Prompt Engineering & Multi-AI Orchestration",
+        "AI Voice Assistants (STT → NLU → TTS pipeline)",
+        "AI-Assisted Development (Claude + Cursor workflow)"
+    ]
+    
+    full_stack  = [
+        "Python (Flask) • TypeScript • JavaScript",
+        "Next.js 14 • NestJS • React • Node.js",
+        "PostgreSQL • Redis • Prisma • SQLite",
+        "Turborepo • pnpm • Docker"
+    ]
+    
+    automation  = ["N8n Workflows", "Webhook Pipelines", "API Integration"]
+    
+    def philosophy(self):
+        return "I treat AI as an engineering teammate — using it for design, "
+               "code generation, review, and debugging to ship faster "
+               "without compromising quality."
 
-    languages  = ["Python", "JavaScript", "HTML/CSS"]
-    interests  = ["AI / Machine Learning", "Web Development",
-                  "Image Processing", "Bot Development"]
-    currently  = ["Building cool AI-powered apps",
-                  "Exploring Computer Vision",
-                  "Leveling up Full-Stack skills"]
-    fun_fact   = "I debug with coffee ☕ and fix bugs with more coffee ☕☕"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome 🚀")
-
-me = MinhNghia()
-me.say_hi()
+me = NghiaLe()
 ```
 
 ---
@@ -62,30 +73,157 @@ me.say_hi()
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
 
+  <!-- AI / ML -->
+  <h4>Artificial Intelligence</h4>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="ai-langs"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" alt="gemini"/>
+  <img src="https://img.shields.io/badge/FAISS-00C7B7?style=for-the-badge&logo=meta&logoColor=white" alt="faiss"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" alt="ollama"/>
+
+  <br/><br/>
+
   <!-- Languages -->
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="languages"/>
 
   <br/><br/>
 
   <!-- Frameworks & Libraries -->
   <h4>Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind&theme=dark" alt="frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flask,tailwind&theme=dark" alt="frameworks"/>
 
   <br/><br/>
 
-  <!-- AI & Data -->
-  <h4>AI / Data Science</h4>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="ai-tools"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+  <!-- Databases -->
+  <h4>Databases & Infrastructure</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,git,github,vscode,linux&theme=dark" alt="infra"/>
 
   <br/><br/>
 
-  <!-- Tools -->
-  <h4>Dev Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="dev-tools"/>
+  <!-- Automation -->
+  <h4>Automation & Workflow</h4>
+  <img src="https://img.shields.io/badge/N8n-1C8E8E?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Odoo-7D3C98?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo"/>
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="actions"/>
 </div>
+
+---
+
+<!-- ===== FEATURED PROJECTS ===== -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 RAG Chatbot System</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/RAG">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=RAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="RAG"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FAISS-00C7B7?style=flat-square&logo=meta&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+        <p>Production-ready RAG system with FAISS vector search, sentence-transformers embeddings, and dual-backend LLM support (OpenAI + local fallback).</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ OLLIE AI Voice Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/OLLIE--AI-Assisstant">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=OLLIE--AI-Assisstant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="OLLIE"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TTS-FF6B6B?style=flat-square"/>
+        </p>
+        <p>Vietnamese-first AI voice assistant with Google Gemini NLU, speech-to-text, TTS, music playback, live weather, and dual-mode UI (desktop + CLI).</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👔 Vest E-Commerce Platform</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/Vest_Ecommerce">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=Vest_Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Vest_Ecommerce"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+        <p>Full-stack e-commerce platform with monorepo architecture (Turborepo, pnpm), dark luxury theme, JWT auth, payment integrations, and admin dashboard.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 ChefBot AI Kitchen Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/ChefBot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=ChefBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="ChefBot"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+        <p>AI-powered cooking assistant using OpenAI API for meal planning, recipe generation, dietary tracking, and step-by-step cooking guidance.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Restaurant POS + AI Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/WEB_RESTAURANT_01">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=WEB_RESTAURANT_01&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="WEB_RESTAURANT_01"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Llama-3-FF6F00?style=flat-square"/>
+        </p>
+        <p>Restaurant POS with integrated AI recommendation chatbot using Ollama + Llama 3, built with React, Vite, and Python backend.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ Computer Vision Projects</h3>
+      <div align="center">
+        <a href="https://github.com/MinhNghia2610/XLAVTGMT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=XLAVTGMT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="XLAVTGMT"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        </p>
+        <p>Image processing and computer vision projects using OpenCV and Python, exploring edge detection, filtering, and object recognition.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===== AI-NATIVE DEVELOPMENT METHODOLOGY ===== -->
+<div align="center">
+  <h2>⚡ My AI-Native Development Workflow</h2>
+</div>
+
+I don't just build AI — I build *with* AI. My development methodology treats AI models as engineering teammates:
+
+| Phase | AI Tool | Role |
+|-------|---------|------|
+| 🎯 **Ideation & Architecture** | Claude Sonnet 4 | System design, feature planning, API architecture |
+| 💻 **Implementation** | Cursor Agent | Code generation, API integration, UI building |
+| 🔍 **Code Review** | Multi-model review | Syntax checking, logic validation, security auditing |
+| 🐛 **Debugging** | AI-assisted | Stack trace analysis, bug fixing, optimization |
+| 🔄 **Automation** | N8n + AI APIs | Workflow automation, data pipelines, webhook orchestration |
 
 ---
 
@@ -103,90 +241,6 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com?user=MinhNghia2610&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="streak"/>
 
 </div>
-
----
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-<div align="center">
-  <h2>🐍 My Contribution Snake</h2>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/output/github-snake.svg" />
-  </picture>
-
-  <!-- Fallback nếu chưa setup snake action, dùng link static -->
-  <!-- Hãy setup GitHub Action để snake tự động generate! -->
-</div>
-
----
-
-<!-- ===== FEATURED PROJECTS ===== -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 Web Bán Vé Xem Phim</h3>
-      <div align="center">
-        <a href="https://github.com/MinhNghia2610/Web-ban-ve-xem-phim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=Web-ban-ve-xem-phim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Web-ban-ve-xem-phim"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        </p>
-        <p>Full-stack movie ticket booking web app với giao diện thân thiện và hệ thống đặt vé trực tuyến.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 ChefBot</h3>
-      <div align="center">
-        <a href="https://github.com/MinhNghia2610/ChefBot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=ChefBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="ChefBot"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square"/>
-        </p>
-        <p>AI-powered chatbot ẩm thực — gợi ý món ăn, công thức nấu ăn thông minh dựa trên sở thích người dùng.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Portfolio</h3>
-      <div align="center">
-        <a href="https://github.com/MinhNghia2610/AI_Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=AI_Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="AI_Portfolio"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/HTML-37%25-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JS-33%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        </p>
-        <p>Portfolio website tích hợp AI — showcase dự án cá nhân với giao diện hiện đại.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ XLAVTGMT — Xử Lý Ảnh</h3>
-      <div align="center">
-        <a href="https://github.com/MinhNghia2610/XLAVTGMT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=XLAVTGMT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="XLAVTGMT"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        </p>
-        <p>Tiểu luận môn Xử Lý Ảnh & Thị Giác Máy Tính — Computer Vision với OpenCV và Python.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -208,7 +262,7 @@ me.say_hi()
 
 <!-- ===== QUOTE ===== -->
 <div align="center">
-  <h2>💭 Dev Quote of the Day</h2>
+  <h2>💭 Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </div>
 
@@ -222,16 +276,19 @@ me.say_hi()
     <img src="https://img.shields.io/badge/GitHub-MinhNghia2610-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ngh%C4%A9a-l%C3%AA-045377245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:devminhnghia2610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devminhnghia2610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  <!-- Fun GIF -->
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
   <br/>
-  <em><b>I love connecting with different people</b> — if you want to say hi, I'll be happy to meet you! 😊</em>
+  <em><b>Open to remote opportunities in AI Engineering, Prompt Engineering, and AI Evaluation.</b> Let's build something intelligent! 🚀</em>
 </div>
 
 ---
@@ -240,5 +297,5 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <sub>⭐ Made with ❤️ by <a href="https://github.com/MinhNghia2610">MinhNghia2610</a> | Last updated: 2025</sub>
+  <sub>⚡ Built with AI-native workflows by <a href="https://github.com/MinhNghia2610">MinhNghia2610</a></sub>
 </div>
