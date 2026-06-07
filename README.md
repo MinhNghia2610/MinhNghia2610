@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- ===== CAPSULE RENDER HEADER ===== -->
+<!-- ===== CAPSULE RENDER HEADER (ANIMATED WAVE) ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nghia%20Le&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20LLM%20Integration%20%E2%80%A2%20Prompt%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- ===== TYPING SVG ===== -->
+<!-- ===== TYPING SVG (ANIMATED LOOP) ===== -->
 <a href="https://github.com/MinhNghia2610">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=🤖+AI+Engineer+%26+Full-Stack+Developer;🔧+Building+RAG+Systems+%2B+AI+Agents;🧠+Prompt+Engineering+%2B+LLM+Integration;🚀+AI-Native+Development+Methodology;🌏+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=🤖+AI+Engineer+%26+Full-Stack+Developer;🔧+Building+RAG+Systems+%2B+AI+Agents;🧠+Prompt+Engineering+%2B+LLM+Integration;🚀+AI-Native+Development+Methodology;🌏+Ho+Chi+Minh+City%2C+Vietnam;💡+OpenAI+%2B+Gemini+%2B+Llama+3+Integration;🎯+6+Production+Projects+%26+Growing;⚡+Building+the+Future+with+AI+🦾" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ===== PROFILE VIEWS + BADGES ===== -->
+<!-- ===== ANIMATED PROFILE BADGES ===== -->
 <img src="https://komarev.com/ghpvc/?username=MinhNghia2610&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/MinhNghia2610?tab=followers">
@@ -23,7 +23,8 @@
 
 </div>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== ABOUT ME ===== -->
 <div align="center">
@@ -60,14 +61,15 @@ class NghiaLe:
     automation  = ["N8n Workflows", "Webhook Pipelines", "API Integration"]
     
     def philosophy(self):
-        return "I treat AI as an engineering teammate — using it for design, "
-               "code generation, review, and debugging to ship faster "
+        return "I treat AI as an engineering teammate — using it for design, " \
+               "code generation, review, and debugging to ship faster " \
                "without compromising quality."
 
 me = NghiaLe()
 ```
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== TECH STACK ===== -->
 <div align="center">
@@ -109,7 +111,8 @@ me = NghiaLe()
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="actions"/>
 </div>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== FEATURED PROJECTS ===== -->
 <div align="center">
@@ -208,7 +211,8 @@ me = NghiaLe()
   </tr>
 </table>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== AI-NATIVE DEVELOPMENT METHODOLOGY ===== -->
 <div align="center">
@@ -225,13 +229,14 @@ I don't just build AI — I build *with* AI. My development methodology treats A
 | 🐛 **Debugging** | AI-assisted | Stack trace analysis, bug fixing, optimization |
 | 🔄 **Automation** | N8n + AI APIs | Workflow automation, data pipelines, webhook orchestration |
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhNghia2610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhNghia2610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="stats"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNghia2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" height="165" alt="top languages"/>
 
@@ -240,33 +245,65 @@ I don't just build AI — I build *with* AI. My development methodology treats A
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=MinhNghia2610&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="streak"/>
 
+  <br/><br/>
+
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
 </div>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
-<!-- ===== ACTIVITY GRAPH ===== -->
+<!-- ===== 3D CONTRIBUTION PROFILE (ANIMATED) ===== -->
+<div align="center">
+  <h2>🧊 3D Contribution Profile</h2>
+  <p><em>Updated daily via GitHub Actions · Shows contribution patterns over time</em></p>
+  <br/>
+
+  <!-- 3D Contribution Graph - generated by github-profile-3d-contrib action -->
+  <img src="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" alt="3D contribution profile"/>
+
+  <br/>
+  <sup>⚡ <em>Enable GitHub Actions in your repo settings to auto-generate this</em></sup>
+</div>
+
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
+
+<!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <p><em>Watch the snake eat your contribution graph! Updated daily via GitHub Actions</em></p>
+  <br/>
+
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/main/dist/snake.svg" width="85%" alt="snake animation"/>
+
+  <br/>
+  <sup>⚡ <em>Enable GitHub Actions in your repo settings to auto-generate this</em></sup>
+</div>
+
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
+
+<!-- ===== CONTRIBUTION ACTIVITY GRAPH ===== -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhNghia2610&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhNghia2610&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=8" alt="activity graph" width="100%"/>
 </div>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
-</div>
-
----
-
-<!-- ===== QUOTE ===== -->
+<!-- ===== DEV QUOTE ===== -->
 <div align="center">
   <h2>💭 Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </div>
 
----
+<!-- ===== ANIMATED WAVE DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ===== CONNECT WITH ME ===== -->
 <div align="center">
@@ -290,8 +327,6 @@ I don't just build AI — I build *with* AI. My development methodology treats A
   <br/>
   <em><b>Open to remote opportunities in AI Engineering, Prompt Engineering, and AI Evaluation.</b> Let's build something intelligent! 🚀</em>
 </div>
-
----
 
 <!-- ===== FOOTER WAVE ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>

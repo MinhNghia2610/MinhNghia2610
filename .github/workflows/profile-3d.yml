@@ -1,0 +1,33 @@
+name: Generate 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
+  workflow_dispatch:        # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          username: MinhNghia2610
+          settings: |
+            # Theme configuration
+            theme: cyber
+            base: diagonal
+            show_previous_contributions: true
+
+      - name: Commit and push 3D profile assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "chore: update 3D contribution profile [skip ci]"
+          add: "profile-3d-contrib/"
