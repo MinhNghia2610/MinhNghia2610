@@ -1,0 +1,53 @@
+<svg width="100%" height="8" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.0"/>
+      <stop offset="30%" stop-color="#00F7FF" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#7B2FF7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00F7FF" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B2FF7" stop-opacity="0.0"/>
+      <stop offset="40%" stop-color="#00F7FF" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#00F7FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7B2FF7" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes wave1 {
+      0% { transform: translate(0, 0); }
+      25% { transform: translate(-15px, 0.5px); }
+      50% { transform: translate(0, 1px); }
+      75% { transform: translate(15px, 0.5px); }
+      100% { transform: translate(0, 0); }
+    }
+    @keyframes wave2 {
+      0% { transform: translate(0, 0); }
+      25% { transform: translate(10px, -0.5px); }
+      50% { transform: translate(0, -1px); }
+      75% { transform: translate(-10px, -0.5px); }
+      100% { transform: translate(0, 0); }
+    }
+    @keyframes glow {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.8; }
+    }
+    .w1 { animation: wave1 3s ease-in-out infinite; }
+    .w2 { animation: wave2 4s ease-in-out infinite; }
+    .glow { animation: glow 2.5s ease-in-out infinite; }
+    .base { opacity: 0.4; }
+  </style>
+
+  <!-- Base wave (static) -->
+  <path class="base" d="M0,4 Q150,1 300,4 T600,4 T900,4 T1200,4" stroke="url(#waveGrad1)" stroke-width="1.5" fill="none"/>
+
+  <!-- Animated wave 1 -->
+  <path class="w1" d="M0,4 Q150,0.5 300,4 T600,4 T900,4 T1200,4" stroke="url(#waveGrad2)" stroke-width="1.2" fill="none" opacity="0.7"/>
+
+  <!-- Animated wave 2 (opposite phase) -->
+  <path class="w2" d="M0,4 Q150,7 300,4 T600,4 T900,4 T1200,4" stroke="#00F7FF" stroke-width="0.8" fill="none" opacity="0.5"/>
+
+  <!-- Glow overlay -->
+  <rect class="glow" x="0" y="2" width="1200" height="4" fill="url(#waveGrad1)" opacity="0.15" rx="2"/>
+</svg>
