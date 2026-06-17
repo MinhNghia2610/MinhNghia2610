@@ -1,4 +1,5 @@
 name: Metrics Dashboard
+permissions: {}
 
 on:
   schedule:
