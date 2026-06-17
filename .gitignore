@@ -34,3 +34,9 @@ venv/
 
 # Project-specific
 # (Add project-specific ignores below)
+
+# Generated assets from GitHub Actions workflows
+# These can be large files committed back by workflow runs
+github-metrics.svg
+dist/
+profile-3d-contrib/
