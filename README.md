@@ -81,8 +81,6 @@ class NghiaLe:
 me = NghiaLe()
 ```
 
-<!-- ===== NEON DIVIDER ===== -->
-<img src="./assets/neon-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== TECH STACK ===== -->
 <div align="center">
@@ -220,8 +218,6 @@ me = NghiaLe()
   </tr>
 </table>
 
-<!-- ===== NEON DIVIDER ===== -->
-<img src="./assets/neon-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== AI-NATIVE DEVELOPMENT METHODOLOGY ===== -->
 <div align="center">
@@ -237,8 +233,6 @@ me = NghiaLe()
 | 🐛 **Debugging** | AI-assisted | Stack trace analysis, bug fixing, optimization |
 | 🔄 **Automation** | N8n + AI APIs | Workflow automation, data pipelines, webhook orchestration |
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
@@ -251,8 +245,6 @@ me = NghiaLe()
   <img src="https://trophy.benkou.dev/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== PROFILE SUMMARY CARDS ===== -->
 <div align="center">
@@ -304,8 +296,6 @@ me = NghiaLe()
   </table>
 </div>
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== CONTRIBUTION ACTIVITY ===== -->
 <div align="center">
@@ -313,8 +303,6 @@ me = NghiaLe()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhNghia2610&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=8&title_color=00F7FF" alt="activity graph" width="100%"/>
 </div>
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== RECENT GITHUB ACTIVITY ===== -->
 <div align="center">
@@ -325,8 +313,6 @@ me = NghiaLe()
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== METRICS DASHBOARD ===== -->
 <div align="center">
@@ -338,8 +324,6 @@ me = NghiaLe()
   <sup>⚡ <em>Enable GitHub Actions and add a <code>METRICS_TOKEN</code> secret (with <code>repo</code> scope) for auto-generation</em></sup>
 </div>
 
-<!-- ===== WAVE DIVIDER ===== -->
-<img src="./assets/wave-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== CONTRIBUTION GALLERY ===== -->
 <div align="center">
@@ -368,8 +352,6 @@ me = NghiaLe()
   <sup>⚡ <em>Enable GitHub Actions in your repo settings to auto-generate these visualizations</em></sup>
 </div>
 
-<!-- ===== CODE DIVIDER ===== -->
-<img src="./assets/code-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== DEV QUOTE ===== -->
 <div align="center">
@@ -377,8 +359,6 @@ me = NghiaLe()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </div>
 
-<!-- ===== CODE DIVIDER ===== -->
-<img src="./assets/code-divider.svg" width="100%" alt="divider"/>
 
 <!-- ===== SPOTIFY NOW PLAYING ===== -->
 <div align="center">
