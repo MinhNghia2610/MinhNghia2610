@@ -133,9 +133,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🧠 RAG Chatbot System</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/RAG">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=RAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="RAG"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/RAG" style="color:#00F7FF;">🔗 MinhNghia2610/RAG</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/RAG?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/RAG?style=flat-square&color=blue" alt="forks"/>
@@ -149,9 +147,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🎙️ OLLIE AI Voice Assistant</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/OLLIE--AI-Assisstant">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=OLLIE--AI-Assisstant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="OLLIE"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/OLLIE--AI-Assisstant" style="color:#00F7FF;">🔗 MinhNghia2610/OLLIE--AI-Assisstant</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/OLLIE--AI-Assisstant?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/OLLIE--AI-Assisstant?style=flat-square&color=blue" alt="forks"/>
@@ -167,9 +163,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">👔 Vest E-Commerce Platform</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/Vest_Ecommerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=Vest_Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Vest_Ecommerce"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/Vest_Ecommerce" style="color:#00F7FF;">🔗 MinhNghia2610/Vest_Ecommerce</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/Vest_Ecommerce?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/Vest_Ecommerce?style=flat-square&color=blue" alt="forks"/>
@@ -183,9 +177,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🤖 ChefBot AI Kitchen Assistant</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/ChefBot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=ChefBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="ChefBot"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/ChefBot" style="color:#00F7FF;">🔗 MinhNghia2610/ChefBot</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/ChefBot?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/ChefBot?style=flat-square&color=blue" alt="forks"/>
@@ -201,9 +193,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🍽️ Restaurant POS + AI Chatbot</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/WEB_RESTAURANT_01">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=WEB_RESTAURANT_01&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="WEB_RESTAURANT_01"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/WEB_RESTAURANT_01" style="color:#00F7FF;">🔗 MinhNghia2610/WEB_RESTAURANT_01</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/WEB_RESTAURANT_01?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/WEB_RESTAURANT_01?style=flat-square&color=blue" alt="forks"/>
@@ -217,9 +207,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🖼️ Computer Vision Projects</h3>
       <div align="center">
-        <a href="https://github.com/MinhNghia2610/XLAVTGMT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNghia2610&repo=XLAVTGMT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="XLAVTGMT"/>
-        </a>
+        <p><strong><a href="https://github.com/MinhNghia2610/XLAVTGMT" style="color:#00F7FF;">🔗 MinhNghia2610/XLAVTGMT</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/XLAVTGMT?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/XLAVTGMT?style=flat-square&color=blue" alt="forks"/>
@@ -256,24 +244,11 @@ me = NghiaLe()
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MinhNghia2610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNghia2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" height="180" alt="top languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <img src="https://streak-stats.demolab.com?user=MinhNghia2610&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="streak"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img src="https://trophy.benkou.dev/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
 <!-- ===== WAVE DIVIDER ===== -->
@@ -411,17 +386,11 @@ me = NghiaLe()
   <p><em>What I'm listening to while building the future with AI</em></p>
   <br/>
 
-  <!--
-    🎵 To enable Spotify Now Playing:
-    1. Visit https://spotify-github-profile.vercel.app/api/login
-    2. Authorize with your Spotify account
-    3. Replace YOUR_SPOTIFY_ID below with your Spotify User ID
-  -->
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_art=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=00F7FF&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni" target="_blank">
+    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/>
   </a>
   <br/>
-  <sup>🎵 <a href="https://spotify-github-profile.vercel.app/api/login">Authorize Spotify</a> to auto-update your now playing status</sup>
+  <sup>🎧 <a href="https://open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni" style="color:#1DB954;">open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni</a></sup>
 </div>
 
 <!-- ===== CODE DIVIDER ===== -->
@@ -455,18 +424,29 @@ me = NghiaLe()
 
   <br/>
 
-  <!-- Replace YOUR_COFFEE_USERNAME with your Buy Me a Coffee username -->
-  <a href="https://www.buymeacoffee.com/YOUR_COFFEE_USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"/>
-  </a>
-  &nbsp;
-  <a href="https://ko-fi.com/YOUR_KOFI_USERNAME" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="50" width="210"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/MinhNghia2610" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA" alt="GitHub Sponsors" height="50"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://paypal.me/NghiaLe1923" target="_blank">
+          <img src="./assets/paypal-qr.png" alt="PayPal QR Code" width="200" height="200" style="border-radius: 12px;"/>
+        </a>
+        <br/>
+        <sup>📱 Scan to donate via PayPal</sup>
+      </td>
+      <td width="30">&nbsp;&nbsp;&nbsp;</td>
+      <td align="center">
+        <a href="https://paypal.me/NghiaLe1923" target="_blank">
+          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="50"/>
+        </a>
+        <br/>
+        <a href="https://github.com/sponsors/MinhNghia2610" target="_blank">
+          <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA" alt="GitHub Sponsors" height="50"/>
+        </a>
+        <br/>
+        <sup>💳 <a href="https://paypal.me/NghiaLe1923" style="color:#00F7FF;">paypal.me/NghiaLe1923</a></sup>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
   <img src="https://media.giphy.com/media/jpVz7h4KnoBkW/giphy.gif" width="80"/>
