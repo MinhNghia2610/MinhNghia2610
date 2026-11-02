@@ -15,7 +15,7 @@
 <a href="https://github.com/MinhNghia2610?tab=followers">
   <img src="https://img.shields.io/github/followers/MinhNghia2610?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full-Stack-brightgreen?style=for-the-badge" alt="focus"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-brightgreen?style=for-the-badge" alt="focus"/>
 <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%20🇻🇳-red?style=for-the-badge" alt="location"/>
 
 <br/>
@@ -30,7 +30,7 @@
 <a href="https://github.com/MinhNghia2610?tab=repositories&q=&type=source">
   <img src="https://img.shields.io/badge/AI--Native-00F7FF?style=for-the-badge&logo=openai&logoColor=black" alt="ai-native"/>
 </a>
-<a href="https://github.com/search?q=user%3AMinhNghia2610+is%3Aissue&type=issues">
+<a href="mailto:devminhnghia2610@gmail.com">
   <img src="https://img.shields.io/badge/Open%20to-Work-EA4AAA?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work"/>
 </a>
 
@@ -50,11 +50,11 @@
 ```python
 class NghiaLe:
     """AI Engineer building production-ready intelligent systems."""
-    
+
     location    = "Ho Chi Minh City, Vietnam 🇻🇳"
     focus       = "AI Engineering • RAG • LLM Integration"
     methodology = "AI-Native Development — AI as engineering teammate"
-    
+
     # Core competencies
     ai_stack    = [
         "RAG (FAISS + sentence-transformers + OpenAI)",
@@ -63,16 +63,16 @@ class NghiaLe:
         "AI Voice Assistants (STT → NLU → TTS pipeline)",
         "AI-Assisted Development (Claude + Cursor workflow)"
     ]
-    
+
     full_stack  = [
         "Python (Flask) • TypeScript • JavaScript",
         "Next.js 14 • NestJS • React • Node.js",
         "PostgreSQL • Redis • Prisma • SQLite",
         "Turborepo • pnpm • Docker"
     ]
-    
+
     automation  = ["N8n Workflows", "Webhook Pipelines", "API Integration"]
-    
+
     def philosophy(self):
         return "I treat AI as an engineering teammate — using it for design, " \
                "code generation, review, and debugging to ship faster " \
@@ -91,7 +91,7 @@ me = NghiaLe()
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" alt="gemini"/>
   <img src="https://img.shields.io/badge/FAISS-00C7B7?style=for-the-badge&logo=meta&logoColor=white" alt="faiss"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" alt="ollama"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama"/>
 
   <br/><br/>
 
@@ -131,7 +131,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🧠 RAG Chatbot System</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/RAG" style="color:#00F7FF;">🔗 MinhNghia2610/RAG</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/RAG">🔗 MinhNghia2610/RAG</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/RAG?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/RAG?style=flat-square&color=blue" alt="forks"/>
@@ -145,7 +145,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🎙️ OLLIE AI Voice Assistant</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/OLLIE--AI-Assisstant" style="color:#00F7FF;">🔗 MinhNghia2610/OLLIE--AI-Assisstant</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/OLLIE--AI-Assisstant">🔗 MinhNghia2610/OLLIE--AI-Assisstant</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/OLLIE--AI-Assisstant?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/OLLIE--AI-Assisstant?style=flat-square&color=blue" alt="forks"/>
@@ -161,11 +161,11 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">👔 Vest E-Commerce Platform</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/Vest_Ecommerce" style="color:#00F7FF;">🔗 MinhNghia2610/Vest_Ecommerce</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/Vest_Ecommerce">🔗 MinhNghia2610/Vest_Ecommerce</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/Vest_Ecommerce?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/Vest_Ecommerce?style=flat-square&color=blue" alt="forks"/>
-          <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
         </p>
@@ -175,7 +175,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🤖 ChefBot AI Kitchen Assistant</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/ChefBot" style="color:#00F7FF;">🔗 MinhNghia2610/ChefBot</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/ChefBot">🔗 MinhNghia2610/ChefBot</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/ChefBot?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/ChefBot?style=flat-square&color=blue" alt="forks"/>
@@ -191,13 +191,13 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🍽️ Restaurant POS + AI Chatbot</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/WEB_RESTAURANT_01" style="color:#00F7FF;">🔗 MinhNghia2610/WEB_RESTAURANT_01</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/WEB_RESTAURANT_01">🔗 MinhNghia2610/WEB_RESTAURANT_01</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/WEB_RESTAURANT_01?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/WEB_RESTAURANT_01?style=flat-square&color=blue" alt="forks"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Llama-3-FF6F00?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Llama_3-FF6F00?style=flat-square"/>
         </p>
         <p align="left">Restaurant POS with integrated AI recommendation chatbot using Ollama + Llama 3, built with React, Vite, and Python backend.</p>
       </div>
@@ -205,7 +205,7 @@ me = NghiaLe()
     <td width="50%" valign="top">
       <h3 align="center">🖼️ Computer Vision Projects</h3>
       <div align="center">
-        <p><strong><a href="https://github.com/MinhNghia2610/XLAVTGMT" style="color:#00F7FF;">🔗 MinhNghia2610/XLAVTGMT</a></strong></p>
+        <p><strong><a href="https://github.com/MinhNghia2610/XLAVTGMT">🔗 MinhNghia2610/XLAVTGMT</a></strong></p>
         <p>
           <img src="https://img.shields.io/github/stars/MinhNghia2610/XLAVTGMT?style=flat-square&color=yellow" alt="stars"/>
           <img src="https://img.shields.io/github/forks/MinhNghia2610/XLAVTGMT?style=flat-square&color=blue" alt="forks"/>
@@ -227,7 +227,7 @@ me = NghiaLe()
 
 | Phase | AI Tool | Role |
 |-------|---------|------|
-| 🎯 **Ideation & Architecture** | Claude Sonnet 4 | System design, feature planning, API architecture |
+| 🎯 **Ideation & Architecture** | Claude | System design, feature planning, API architecture |
 | 💻 **Implementation** | Cursor Agent | Code generation, API integration, UI building |
 | 🔍 **Code Review** | Multi-model review | Syntax checking, logic validation, security auditing |
 | 🐛 **Debugging** | AI-assisted | Stack trace analysis, bug fixing, optimization |
@@ -242,7 +242,7 @@ me = NghiaLe()
 
   <br/><br/>
 
-  <img src="https://trophy.benkou.dev/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MinhNghia2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
 
@@ -304,28 +304,16 @@ me = NghiaLe()
 </div>
 
 
-<!-- ===== RECENT GITHUB ACTIVITY ===== -->
-<div align="center">
-  <h2>⚡ Recent GitHub Activity</h2>
-  <p><em>My latest contributions across repositories — updated every 30 minutes via GitHub Actions</em></p>
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-<!-- ===== METRICS DASHBOARD ===== -->
+<!-- ===== METRICS DASHBOARD (generated by .github/workflows/metrics.yml) ===== -->
 <div align="center">
   <h2>📊 Comprehensive Metrics</h2>
   <p><em>Deep analytics powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — updated daily via GitHub Actions</em></p>
   <br/>
-  <img src="github-metrics.svg" width="85%" alt="metrics dashboard"/>
-  <br/>
-  <sup>⚡ <em>Enable GitHub Actions and add a <code>METRICS_TOKEN</code> secret (with <code>repo</code> scope) for auto-generation</em></sup>
+  <img src="./github-metrics.svg" width="85%" alt="metrics dashboard"/>
 </div>
 
 
-<!-- ===== CONTRIBUTION GALLERY ===== -->
+<!-- ===== CONTRIBUTION GALLERY (generated by .github/workflows/profile-3d.yml) ===== -->
 <div align="center">
   <h2>🎨 Contribution Gallery</h2>
   <p><em>Visual representations of my coding activity — automatically updated via GitHub Actions</em></p>
@@ -335,7 +323,7 @@ me = NghiaLe()
     <tr>
       <td width="50%" align="center">
         <h3>🧊 3D Contribution Profile</h3>
-        <img src="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution profile"/>
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution profile"/>
         <br/>
         <sup>📅 <em>Updated daily — shows contribution patterns over time</em></sup>
       </td>
@@ -343,13 +331,10 @@ me = NghiaLe()
         <h3>🐍 Contribution Snake</h3>
         <img src="https://raw.githubusercontent.com/MinhNghia2610/MinhNghia2610/main/dist/snake.svg" width="95%" alt="snake animation"/>
         <br/>
-        <sup>🐍 <em>Watch the snake eat your contribution graph!</em></sup>
+        <sup>🐍 <em>Watch the snake eat my contribution graph!</em></sup>
       </td>
     </tr>
   </table>
-
-  <br/>
-  <sup>⚡ <em>Enable GitHub Actions in your repo settings to auto-generate these visualizations</em></sup>
 </div>
 
 
@@ -360,7 +345,7 @@ me = NghiaLe()
 </div>
 
 
-<!-- ===== SPOTIFY NOW PLAYING ===== -->
+<!-- ===== SPOTIFY ===== -->
 <div align="center">
   <h2>🎧 Coding Vibes</h2>
   <p><em>What I'm listening to while building the future with AI</em></p>
@@ -369,8 +354,6 @@ me = NghiaLe()
   <a href="https://open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni" target="_blank">
     <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/>
   </a>
-  <br/>
-  <sup>🎧 <a href="https://open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni" style="color:#1DB954;">open.spotify.com/user/k33lqvznkbz9jrq3uuoyuqlni</a></sup>
 </div>
 
 <!-- ===== CODE DIVIDER ===== -->
@@ -408,7 +391,7 @@ me = NghiaLe()
     <tr>
       <td align="center">
         <a href="https://paypal.me/NghiaLe1923" target="_blank">
-          <img src="./assets/paypal-qr.png" alt="PayPal QR Code" width="200" height="200" style="border-radius: 12px;"/>
+          <img src="./assets/paypal-qr.png" alt="PayPal QR Code" width="200" height="200"/>
         </a>
         <br/>
         <sup>📱 Scan to donate via PayPal</sup>
@@ -423,7 +406,7 @@ me = NghiaLe()
           <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA" alt="GitHub Sponsors" height="50"/>
         </a>
         <br/>
-        <sup>💳 <a href="https://paypal.me/NghiaLe1923" style="color:#00F7FF;">paypal.me/NghiaLe1923</a></sup>
+        <sup>💳 <a href="https://paypal.me/NghiaLe1923">paypal.me/NghiaLe1923</a></sup>
       </td>
     </tr>
   </table>
